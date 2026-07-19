@@ -1,0 +1,11 @@
+/pwndbg/
+
+/.venv/
+/.python-version
+__pycache__/
+*.py[cod]
+
+/.gdb_history
+core
+core.*
+
